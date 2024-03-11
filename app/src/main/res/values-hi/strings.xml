@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iot</string>
+    <string name="welcome_user">नमस्ते</string>
+    <string name="day">सोमवार</string>
+    <string name="date">00/00/2024</string>
+    <string name="time">00:00</string>
+    <string name="soil_moisture_label">मिट्टी का नमी</string>
+    <string name="humid">आर्द्र</string>
+    <string name="moisture_percentage_label">नमी</string>
+    <string name="temperature_label">तापमान</string>
+    <string name="air_quality_label">वायु गुणवत्ता</string>
+    <string name="ph_label">pH</string>
+    <string name="water_level_label">"पानी का स्तर  "</string>
+    <string name="change_language">परिवर्तन भाषा</string>
+</resources>
